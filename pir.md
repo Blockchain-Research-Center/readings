@@ -1,5 +1,6 @@
-## PIR
-### Standard PIR
+# PIR
+
+## Standard PIR
 |Year|Conference|Paper|Code|
 |-|-|-|-|
 |2022|USENIX|[Constant-weight PIR: Single-round Keyword PIR via Constant-weight Equality Operators](https://www.usenix.org/system/files/sec22-mahdavi.pdf)|[cwpir](https://github.com/RasoulAM/constant-weight-pir)
@@ -8,7 +9,7 @@
 |2018|S&P|[PIR with Compressed Queries and Amortized Query Processing](https://eprint.iacr.org/2017/1142.pdf)|[sealpir](https://github.com/z6shang/OSSE)
 
 
-### Online/Offline PIR
+## Online/Offline PIR
 |Year|Conference|Paper|Code|
 |-|-|-|-|
 |2023|USENIX|[One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval](https://www.usenix.org/system/files/sec23summer_27-henzinger-prepub.pdf)|[simplepir](https://github.com/ahenzinger/simplepir)
@@ -21,7 +22,7 @@
 |2020|EUROCRYPT|[Private Information Retrieval with Sublinear Online Time](https://eprint.iacr.org/2019/1075.pdf)|
 |2018|CCS|[Private Stateful Information Retrieval](https://eprint.iacr.org/2018/1083.pdf)|
 
-### Verfiable PIR
+## Verfiable PIR
 |Year|Conference|Paper|Code|
 |-|-|-|-|
 |2022|S&P|[Multi-server verifiable computation of low-degree polynomials](https://arxiv.org/pdf/2104.12331.pdf)
