@@ -4,8 +4,8 @@
 |-|-|-|-|
 |2022|USENIX|[Constant-weight PIR: Single-round Keyword PIR via Constant-weight Equality Operators](https://www.usenix.org/system/files/sec22-mahdavi.pdf)|[cwpir](https://github.com/RasoulAM/constant-weight-pir)
 |2021|USENIX|[Communication–Computation Trade-offs in PIR](https://eprint.iacr.org/2017/1142.pdf)|[mulpir](https://github.com/microsoft/sealpir)
-|2021|NDSS|[Obfuscated Access and Search Patterns in Searchable Encryption](https://arxiv.org/pdf/2102.09651.pdf)|[mulpir](https://github.com/microsoft/sealpir)
-|2018|S&P|[PIR with Compressed Queries and Amortized Query Processing](https://eprint.iacr.org/2017/1142.pdf)|[osse](https://github.com/z6shang/OSSE)
+|2021|NDSS|[Obfuscated Access and Search Patterns in Searchable Encryption](https://arxiv.org/pdf/2102.09651.pdf)|[osse](https://github.com/microsoft/sealpir)
+|2018|S&P|[PIR with Compressed Queries and Amortized Query Processing](https://eprint.iacr.org/2017/1142.pdf)|[sealpir](https://github.com/z6shang/OSSE)
 
 
 ### Online/Offline PIR
