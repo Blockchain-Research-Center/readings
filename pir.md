@@ -9,6 +9,7 @@
 |2018|S&P|[PIR with Compressed Queries and Amortized Query Processing](https://eprint.iacr.org/2017/1142.pdf)|[sealpir](https://github.com/z6shang/OSSE)
 
 
+
 ## Online/Offline PIR
 |Year|Conference|Paper|Code|
 |-|-|-|-|
@@ -21,6 +22,9 @@
 |2021|CCS|[OnionPIR: Response Efficient Single-Server PIR](https://eprint.iacr.org/2021/1081.pdf)|
 |2020|EUROCRYPT|[Private Information Retrieval with Sublinear Online Time](https://eprint.iacr.org/2019/1075.pdf)|
 |2018|CCS|[Private Stateful Information Retrieval](https://eprint.iacr.org/2018/1083.pdf)|
+
+
+
 
 ## Verfiable PIR
 |Year|Conference|Paper|Code|
