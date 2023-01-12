@@ -14,6 +14,7 @@
 |Year|Conference|Paper|Code|
 |-|-|-|-|
 |2023|USENIX|[One Server for the Price of Two: Simple and Fast Single-Server Private Information Retrieval](https://www.usenix.org/system/files/sec23summer_27-henzinger-prepub.pdf)|[simplepir](https://github.com/ahenzinger/simplepir)
+|2022||[Near-Optimal Private Information Retrieval with Preprocessing](https://eprint.iacr.org/2022/830.pdf)|
 |2022|EUROCRYPT|[Single-Server Private Information Retrieval with Sublinear Amortized Time](https://eprint.iacr.org/2022/081.pdf)|
 |2022|USENIX|[Incremental Offline/Online PIR](https://eprint.iacr.org/2021/1438.pdf)|[incpir](https://github.com/eniac/incpir)
 |2022|S&P|[Spiral: Fast, High-Rate Single-Server PIR via FHE Composition](https://eprint.iacr.org/2021/345.pdf)|
