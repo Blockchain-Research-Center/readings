@@ -30,9 +30,10 @@
 ## Verfiable PIR
 |Year|Conference|Paper|Code|
 |-|-|-|-|
+|2023||[Two-Server Private Information Retrieval with Optimized Download Rate and Result Verification](https://arxiv.org/pdf/2301.11730.pdf)
 |2022|S&P|[Multi-server verifiable computation of low-degree polynomials](https://arxiv.org/pdf/2104.12331.pdf)
 |2022|TCC|[Verifiable Private Information Retrieval](https://eprint.iacr.org/2022/1560.pdf)
 |2021|Information Sciences|[Verifiable single-server private information retrieval from LWE with binary errors](https://reader.elsevier.com/reader/sd/pii/S0020025520308483?token=0F57DA939F314358C292B61758E4116EA4F1E430F89674B1E2DB0742BB4A5FC73E2E12501B9C673E308CBB9FE0C3F599&originRegion=us-east-1&originCreation=20230112134701)
 |2022|Information Theory|[Two-Server Private Information Retrieval with Result Verification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9834706)
-
+|2014|ACNS|[Verifiable Multi-server Private Information Retrieval](https://link.springer.com/chapter/10.1007/978-3-319-07536-5_5)
 
